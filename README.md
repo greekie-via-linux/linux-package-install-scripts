@@ -37,5 +37,7 @@ The source code won't include the VirtualBox .deb and .rpm files for Debian, Fed
 # Suggesting Distros to add install scripts
 I wont be taking suggestions bcuz these are for distros that I use, I will only be taking suggestions for distros *IF* there is a good reason for me to actually use it, and by good, I don't mean "iT hAs VeRy LiTtLe BlOaT" because Linux is one of the most debloated Operating System families, aside from maybe any BSD distro.
 
-# Disclaimer
+# Disclaimers
 When I test the scripts, **they will only be tested within Arch, Debian, Fedora, Alpine, Solus, and openSUSE Tumbleweed, unless there is a distro-specific error**, and in the unlikely, but very likely for RPM-based distros, event that the script won't work at all.
+
+**There is an error in pacman-based distros where you have to restart your computer for Vesktop to appear**
