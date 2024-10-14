@@ -40,4 +40,4 @@ I wont be taking suggestions bcuz these are for distros that I use, I will only 
 # Disclaimers
 When I test the scripts, **they will only be tested within Arch, Debian, Fedora, Alpine, Solus, and openSUSE Tumbleweed, unless there is a distro-specific error**, and in the unlikely, but very likely for RPM-based distros, event that the script won't work at all.
 
-**There is an error in pacman-based distros where you have to restart your computer for Vesktop to appear**
+**There is an error in pacman-based distros where you have to restart your computer for Vesktop to appear.**
